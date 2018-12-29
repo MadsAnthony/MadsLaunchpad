@@ -1,0 +1,3 @@
+[submodule "MadsLaunchpad/Assets/Code/SharedModules/Fiber/Module"]
+	path = MadsLaunchpad/Assets/Code/SharedModules/Fiber/Module
+	url = ../../MadsSharedModules/Fiber.git
